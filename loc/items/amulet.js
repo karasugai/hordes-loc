@@ -173,7 +173,8 @@ export default [
       tr: 'Savaşabilen din adamları koruma sağlaması amacıyla bu ilahi omega sembollerini oluşturdu. Koruyucu bir hediye olarak verilmiş bu semboller saldırıları savuşturmak için kullanıldı ve potansiyel müritlerine sunuldu.',
       vi: 'Chiến tranh thần quyền đã tạo ra các biểu tượng omega thần thánh như một phương tiện để bảo vệ. Những biểu tượng này được sử dụng để chống lại các đòn tấn công, được tặng làm quà bảo vệ và được trao cho các tín đồ tôn giáo ngoan đạo.',
       cs: 'Válčící teokracie vytvořila tento božský amulet ve tvarů omegy, který znamená ochranu. Tyto symboly byly požívány pro odrazení útoků, dány jako dary ochrany a prezentovány potenciálním následníkům výry.',
-      it: 'Le teocrazie in guerra crearono divini simboli omega per protezione. Questi simboli vennero usati per scoraggiare attacchi, donati come regali protettivi e presentati ai potenziali seguaci religiosi.'
+      it: 'Le teocrazie in guerra crearono divini simboli omega per protezione. Questi simboli vennero usati per scoraggiare attacchi, donati come regali protettivi e presentati ai potenziali seguaci religiosi.',
+      ja: '戦火の中にあった神政の国々は、保護を授かる為に神のオメガ・シンボルを作りました。これらのシンボルは攻撃から身を守る為に用いられ、お守りの贈り物として贈られ、望み高き信徒に与えられました。'
     }
   },
 
@@ -194,7 +195,8 @@ export default [
       tr: 'Bu muska üst üste dizilmiş ve doğanın enerjisiyle bağlı olan garip disklerden oluşuyor. Pek çok büyü kullanıcısı, bu muskanın sırrını çözmeye çalıştı ki çoğaltılabilsin.',
       vi: 'Bùa hộ mệnh này có một bộ đĩa chồng chéo kỳ lạ chạm vào năng lượng tự nhiên và khuếch đại sự bảo vệ của người đeo. Nhiều người sử dụng phép thuật cố gắng tìm hiểu bí mật của những chiếc bùa hộ mệnh này để chúng có thể sao chép chúng.',
       cs: 'Tento amulet má podivnou sadu překrývajících se disků, které si zakládají na přírodní energii a zvětšují přírodní ochranu nositele. Spousty zázračný uřivatelů se pokoušelo naučit tajemství těchto amuletů, aby je mohli reprodukovat.',
-      it: 'Questo amuleto ha uno strano strato di dischi sovrapposti che attinge alle energie naturali per amplificare la protezione naturale di chi lo indossa. Molti possessori si struggono per imparare i segreti di questi amuleti per poterli riprodurre.'
+      it: 'Questo amuleto ha uno strano strato di dischi sovrapposti che attinge alle energie naturali per amplificare la protezione naturale di chi lo indossa. Molti possessori si struggono per imparare i segreti di questi amuleti per poterli riprodurre.',
+      ja: 'このお守りは大自然のエネルギーを利用した不思議な円盤の重ね合わせで出来ており、着用者に大自然の加護を授けます。多くの魔法研究家は、これらのお守りの複製を用いて、お守りの秘密を学ぶように努めます。'
     }
   },
 
@@ -215,7 +217,8 @@ export default [
       tr: 'İç içe geçmiş metal teller ve ürettiği elektrik arkları bu muskaya canlıymış gibi bir görünüm kazandırıyor. Alimlerin görüşüne göre bu muska yok olan başka bir diyardan gelmiş, ama kimse bu konuda emin değil.',
       vi: 'Các sợi kim loại được đan với nhau, tạo ra các vòng điện từ và mang lại dáng vẻ của một lá bùa hộ mệnh. Các học giả suy đoán rằng những bùa hộ mệnh này đến từ một cõi đã biến mất, nhưng dường như không ai chắc chắn.',
       cs: 'Kovové vlákno upletené každé skrz na skrz, vytváří elektrický oblouk a dávají zjev žijícího amuletu. Učenci spekulovali, že tyto amulety přisli z říše, která zmizela ale nikdo si tím není jistý.',
-      it: 'I fili di metallo si intrecciano uno dentro l\'altro, producendo archi di energia e dando l\'apparenza di essere un amuleto vivo. Gli studenti ipotizzano che questi amuleti provengono da un reame che è scomparso, ma nessuno sembra esserne sicuro.'
+      it: 'I fili di metallo si intrecciano uno dentro l\'altro, producendo archi di energia e dando l\'apparenza di essere un amuleto vivo. Gli studenti ipotizzano che questi amuleti provengono da un reame che è scomparso, ma nessuno sembra esserne sicuro.',
+      ja: '織り交ぜられた金属の撚糸はアーク放電を発生させ、まるでお守りが生きているかのように輝きます。学者達の間ではこれらのお守りは既に消滅した地からやって来たと推測されていますが、真相は誰にも分かりません。'
     }
   },
 
@@ -236,7 +239,8 @@ export default [
       tr: 'Eski krallar kendilerini öbür dünyada koruması için bu güçlü ankh sembollerini oluşturdular. Mezar hırsızları bu muskaların birçoğunu yağmalayıp insanlara ve canavarlara sattılar. Her bir ankh sembolü ürkütücü bir parıltıya sahip, işte bu gerçek güç.',
       vi: 'Các vị vua cổ đại có những biểu tượng ankh mạnh mẽ được tạo ra để bảo vệ họ ở thế giới bên kia. Những kẻ trộm mộ đã đánh cắp nhiều bùa hộ mệnh này và bán chúng cho cả người và quái vật. Mỗi ankh có một ánh sáng kỳ lạ tin rằng sức mạnh thực sự của nó.',
       cs: 'Prastaří králové měli mocný ankh symbol aby je ochránil v posmrtném životě. Vykradači hrobů však ukradli mnoho těchto amuletů a prodávali je jak lidem tak příšerám. Každý amulet má desivou záři zakrývá její opravdovou moc.',
-      it: 'I Re antichi avevano potenti simboli ankh creati per proteggerli nella vita dopo la morte. I ladri di tombe rubarono molti di questi amuleti e venduti poi alle persone ed ai mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.'
+      it: 'I Re antichi avevano potenti simboli ankh creati per proteggerli nella vita dopo la morte. I ladri di tombe rubarono molti di questi amuleti e venduti poi alle persone ed ai mostri. Ogni ankh ha un bagliore inquietante che smentisce il suo vero potere.',
+      ja: '古代の王は死後安らかな眠りを得られるよう、強大な力を有するアンク・シンボルを持っていました。墓荒らしはこれらのお守りを沢山盗み、人々やモンスターに売り払いました。その後、彼らの姿を見た者はいないと云います。'
     }
   },
 
@@ -258,7 +262,8 @@ export default [
       tr: 'Devasa Dünya Ağacı\'nın yani Yggdrasil\'in kıvrık parçaları en kutsal türden bir muska hâline getirildi. Muskadan sızan bitki özü vücut taradından emilip fazladan koruma sağlar.',
       vi: 'Những mảnh xoắn của World Tree, Yggdrasil, được chế tạo thành những chiếc bùa hộ mệnh thuộc loại linh thiêng nhất. Nhựa cây được thấm ra khỏi bùa hộ mệnh và được cơ thể hấp thụ để nhận được sự bảo vệ.',
       cs: 'Zamotané kusy obrovského World Tree, Yggdrasil, byly přidány do těch nejposvátnějších amuletů. Míza, která prosakuje skrz amulet je absorbována tělem pro lepší ochranu.',
-      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra.'
+      it: 'Pezzi attorcigliati dell\'enorme World Tree, Yggdrasil, furono utilizzati per creare amuleti del tipo più sacro. La linfa filtra fuori dall\'amuleto e viene assorbita dal corpo per una protezione extra.',
+      ja: '大いなるWorld Tree、Yggdrasilの木片を捩り合わせた代物は、最も神聖なお守りとして慕われました。お守りから滴る樹液は、更なる加護の為に己の身体に塗られます。'
     }
   },
 
@@ -279,7 +284,8 @@ export default [
       tr: 'Bu muska, genç ejderhalara verilen kadim ejderha büyüsü içeriyor. Büyüme çağındaki ejderhalara hayatta kalmalarını sağlamak için armağan edildi. Genç ejderhalar, kendilerini savunabilecek kadar olgunlaştığında ve büyüdüğünde zincir kopuverdi ve muska kayboldu.',
       vi: 'Bùa hộ mệnh này chứa ma thuật của những con rồng già ban cho những con rồng trẻ; những lá bùa hộ mệnh này đã cho những con rồng trẻ cơ hội sống sót tốt hơn vào tuổi thiếu niên. Một khi những con rồng trẻ trở nên già và đủ lớn để tự mình sống sót, chuỗi bị phá vỡ và bùa hộ mệnh bị mất.',
       cs: 'Tento amulet obsahuje prastaré dračí kouzlo, které bylo určeno pro nadcházející mladší draky. Tyto amulety, které byly dávány mladším drakům, jim měli pomoci přežít do dospělosti. Až jednou mladý drak dospěl aby dokázal přežít řetěz od amuletu se přetrhnul a amulet byl ztracen.',
-      it: 'Questo amuleto contiene la magia del drago antico che è stato conferito a giovani draghi; questi amuleti davano ai giovani draghi una migliore possibilità di sopravvivenza nell\'adolescenza. Una volta che i giovani draghi divenivano vecchi e grandi abbastanza per sopravvivere da soli, la catena si ruppe e l\'amuleto andò perduto.'
+      it: 'Questo amuleto contiene la magia del drago antico che è stato conferito a giovani draghi; questi amuleti davano ai giovani draghi una migliore possibilità di sopravvivenza nell\'adolescenza. Una volta che i giovani draghi divenivano vecchi e grandi abbastanza per sopravvivere da soli, la catena si ruppe e l\'amuleto andò perduto.',
+      ja: 'このお守りは、若い竜へ授けられた老竜の息吹を宿しています。これらのお守りは青春期の若い竜達を様々な危険から護りました。竜が成長して大きくなり、一人で生きられるようになったら、お守りのチェーンが外れ、その役目を終えて行きました。'
     }
   },
 
@@ -300,7 +306,8 @@ export default [
       vi: 'Bùa hộ mệnh này chứa một viên đá quý từ vương miện được đeo bởi một vị vua nổi tiếng. Các góc cạnh của bùa hộ mệnh này sắc nét một cách tàn nhẫn và bị vấy bẩn một phần với một chất bí ẩn',
       cs: 'Tento amulet obsahuje drahokam z koruny, kterou nosil slavný král. Okraje amuletu jsou nemilostrdně ostré a částečně pomazané záhodnou sloučeninou.',
       it: 'Questo amuleto contiene una gemma della corona indossata da un famoso re. I bordi di questo amuleto sono spietatamente affilati e parzialmente imbrattati con una misteriosa sostanza.',
-      ro: 'Această amuletă conține piatra prețioasă din coroana unui rege faimos. Marginile amuletei sunt incredibil de ascuțite și parțial pătate cu o substanță misterioasă.'
+      ro: 'Această amuletă conține piatra prețioasă din coroana unui rege faimos. Marginile amuletei sunt incredibil de ascuțite și parțial pătate cu o substanță misterioasă.',
+      ja: 'このお守りは、世に名を馳せた王の王冠に用いられていた宝石から作られています。お守りの先端は謎めいた物質で出来ており、嘗てのように冷徹に鋭く、嘗てのように見境なく傷つけます。'
     }
   },
 
@@ -321,7 +328,8 @@ export default [
       tr: 'Anka kuşunun tüylerinden oluşan bu muskanın merkezinde, bu muskayı takan ölmüş maceracıların külleri var. Böyle bir muskayı takan istisnasız her maceracı, bu efsanenin bir parçası olmuş.',
       vi: 'Trung tâm của bùa hộ mệnh lông phượng này chứa một lượng tro nhỏ từ tất cả các nhà thám hiểm đã ngã xuống đã từng sở hữu nó. Không ngoại lệ, mọi nhà thám hiểm sử dụng một lá bùa như vậy đã trở thành huyền thoại.',
       cs: 'Prostředek tohoto amuletu z fénixových peří obsahuje malinkaté množsví popela ze všech padlích dobrodruhů, který tento amulet nosili. Bezesporu, kterýkoliv dobrodruh nosící takovýto amulet se stává legendou.',
-      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di ceneri di tutti gli avventurieri caduti che lo hanno posseduto. Senza eccezioni, ogni avventuriero che usa un amuleto del genere è trasceso nel leggendario.'
+      it: 'Il centro di questo amuleto di piume di fenice contiene una piccola quantità di ceneri di tutti gli avventurieri caduti che lo hanno posseduto. Senza eccezioni, ogni avventuriero che usa un amuleto del genere è trasceso nel leggendario.',
+      ja: 'このお守りの中央に瞬く不死鳥の羽根は、今までこれを所有していた全ての冒険家の遺灰を含んでいます。このお守りを使った全ての冒険家は、例外なく皆伝説へと登り詰めました。'
     }
   }
 ]
